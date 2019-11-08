@@ -1,0 +1,102 @@
+ @font-face { font-family: Captain; src: url('American Captain.ttf'); } 
+ @font-face { font-family: Captain; font-weight: bold; src: url('American Captain.ttf');}
+ @font-face { font-family: Headline; src: url('HeadlinerNo.45 DEMO.ttf'); } 
+ @font-face { font-family: Headline; font-weight: bold; src: url('HeadlinerNo.45 DEMO.ttf');}
+ @font-face { font-family: Text1; src: url('texgyrepagella-regular.otf'); } 
+ @font-face { font-family: Text1; font-weight: bold; src: url('texgyrepagella-bold.otf');}
+h1{
+    font-family: Headline;
+    color: white;
+    margin-top: 25px;
+    font-size: 100px;
+    margin-bottom: 0;
+}
+h2{
+    font-family: Headline;
+    color: white;
+}
+table{
+    background-color: red;
+    margin: 0;
+}
+a.nav{
+    color: white;
+    text-decoration: none;
+    font-family: Headline;
+    font-size: 35px;
+    margin: 7;
+    margin-top: 0;
+}
+.nav{
+    background-color: red;
+    margin-top: 0;
+    
+}
+
+p{
+    color: white;
+    font-family: Text1;
+    font-size: 20px;
+    margin: 0;
+    margin-top: 25;
+    text-align: center;
+}
+
+body{
+    background-color: red;
+}
+
+img{
+    margin: 10;
+}
+
+a.link{
+    color: white;
+    padding: 10px;
+    margin-top: 42px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Text1;
+}
+
+.space{
+    margin-top: 20px;
+}
+
+ol{
+    color: white;
+    font-size: 18px;
+    font-family: Text1;
+}
+
+.hd{
+   font-size: 40px; 
+    text-align: center;
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: Text1;
+}
+
+h4{
+    color: white;
+    text-align: center;
+    font-family: Headline;
+    font-size: 50;
+    margin-bottom: 0;
+}
+
+mark {
+    font-size: 30;
+    color: white;
+    text-align: center;
+    font-family: Headline;
+    background-color: red;
+}
